@@ -7,7 +7,7 @@ export default function Product({product}){
             <h2>{product.title}</h2>
             <p>{product.price}</p>
             <button>Add to cart</button>
-            <Link href="/"> View more</Link>
+            <Link href={`/${product.id}`}> View more</Link>
         </div>
     )
 }
