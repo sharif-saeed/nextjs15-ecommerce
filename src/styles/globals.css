@@ -198,6 +198,22 @@ main.main-content {
   background-color: #c0392b;
 }
 
+.cart input[type="number"] {
+  width: 60px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.cart input[type="number"]:focus {
+  border-color: #007bff;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
 
 header {
   margin-bottom: 70px;
