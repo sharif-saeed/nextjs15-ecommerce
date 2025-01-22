@@ -1,9 +1,24 @@
 import Link from "next/link"
 
+export async function generateMetadata({params}){
+
+    let {id} = params
+    let res = await fetch(`https://fakestoreapi.com/products/${id}`)
+    let product = await res.json()
+
+    return {
+        title: product.title,
+        description: product.description,
+        openGraph:{
+            title: product.title,
+            description: product.description,  
+        }
+    }
+}
+
 export default async function ProductDetail({params}){
 
     let {id} = params
-
    let res = await fetch(`https://fakestoreapi.com/products/${id}`)
    let product = await res.json()
 
