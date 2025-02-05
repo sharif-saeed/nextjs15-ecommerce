@@ -60,7 +60,7 @@ For more information, visit my [GitHub Profile](https://github.com/sharif-saeed)
 
 Follow me on my social media platforms for updates and more:
 
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@shariff_saeed)  
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)](https://instagram.com/shariff_saeed)  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://linkedin.com/in/shariff-saeed)
+[![YouTube](https://img.icons8.com/ios/452/youtube-play.png)](https://www.youtube.com/@shariff_saeed)  
+[![Instagram](https://img.icons8.com/ios/452/instagram-new.png)](https://instagram.com/shariff_saeed)  
+[![LinkedIn](https://img.icons8.com/ios/452/linkedin.png)](https://linkedin.com/in/shariff-saeed)
 
