@@ -2,7 +2,7 @@
 
 Welcome to the **Next.js 15 E-commerce** project, a modern, fast, and fully responsive e-commerce solution designed to elevate your online store. Built with the latest version of Next.js, this project is packed with features to give your business a strong digital presence.
 
-![E-commerce Screenshot](https://drive.google.com/uc?id=1hsHSUxF7IJR2uAFpzD4oLNJ2E2ZOvbMO)  
+![E-commerce Screenshot](https://drive.google.com/uc?id=1StI7jZluVWdj3KLQLcmntSzQCuM3P4Up)  
 *Example of the platform's home page (Placeholder image)*
 
 ## 🌟 Features
